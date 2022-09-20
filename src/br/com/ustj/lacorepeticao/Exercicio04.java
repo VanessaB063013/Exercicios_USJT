@@ -1,5 +1,5 @@
 
-package br.com.usjt.lacorepeticao;
+package br.com.ustj.lacorepeticao;
 
 import java.util.Scanner;
 

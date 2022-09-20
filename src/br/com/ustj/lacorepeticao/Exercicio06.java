@@ -1,4 +1,4 @@
-package br.com.usjt.lacorepeticao;
+package br.com.ustj.lacorepeticao;
 /*/*  Faça um programa que lê o saldo de uma conta corrente e as movimentações feitas nela 
 (valores positivos e negativos). Quando uma
 movimentação com valor zero for inserida, o programa deverá exibir o saldo final.*/

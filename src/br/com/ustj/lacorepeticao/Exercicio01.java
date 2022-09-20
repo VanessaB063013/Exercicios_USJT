@@ -1,4 +1,4 @@
-package br.com.usjt.lacorepeticao;
+package br.com.ustj.lacorepeticao;
 
 /* [while] Certa pessoa (A) possui R$ 10.000,00 e tem sua fortuna crescendo em R$ 100,00 por mês. Outra pessoa (B) tem sua 
  * fortuna crescendo em R$ 300,00 ao mês e possui R$ 5.000,00.

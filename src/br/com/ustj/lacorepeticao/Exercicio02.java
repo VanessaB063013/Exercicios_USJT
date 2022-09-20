@@ -1,4 +1,4 @@
-package br.com.usjt.lacorepeticao;
+package br.com.ustj.lacorepeticao;
 
 /* [while] Um professor precisa saber qual a média das notas de uma sala e pediu sua ajuda para construir um 
  * programa que permita inserir as notas finais de cada aluno e, ao final, exibir a média da sala. 
