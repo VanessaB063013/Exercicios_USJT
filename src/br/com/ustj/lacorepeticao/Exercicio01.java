@@ -27,10 +27,10 @@ public class Exercicio01 {
 			
 		}
 				
-				pessoaB= pessoaB+300;
+				/*pessoaB= pessoaB+300;
 				System.out.println("pessoa A:" + pessoaA);
 				System.out.println("pessoa B:" + pessoaB);
-				System.out.println("Quantidade de meses :" + (cont+1)); // 
+				System.out.println("Quantidade de meses :" + (cont+1)); */ 
 
 
 			
