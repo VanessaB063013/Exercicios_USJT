@@ -40,10 +40,7 @@ public class Jogadores {
 			
 			
 		}
-		
-		
-		
-		
+			
 	
 
 	public int getContador() {
